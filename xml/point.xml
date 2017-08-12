@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<markers>
+<marker id='9' ville='Marrakech' lng='-7.999940' lat='31.634160' pop='35000' description='&lt;div class="window"&gt;Marrakech&lt;br /&gt;&lt;br /&gt;Ville touristique&lt;/div&gt;' />
+<marker id='10' ville='Laayoune' lng='-13.187970' lat='27.141800' pop='100000' description='&lt;div class="window"&gt;Laayoune&lt;br /&gt;&lt;br /&gt;Ville sahara&lt;/div&gt;' />
+</markers>
